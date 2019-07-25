@@ -1,0 +1,47 @@
+body{
+    background-color:#ffffff;
+
+}
+.classRed {
+    color: red;
+}
+.classBlue {
+    color: blue;
+}
+.classGreen {
+    color: green;
+}
+.classOrange {
+    color: orange;
+}
+.styledFont {
+    color: green;
+}
+.classBig {
+    font-size: x-large;
+}
+.classXSmall {
+    font-size: xx-small;
+}
+.classTitle {
+    text-align: center;
+}
+.classSmall {
+    font-size: small;
+}
+.classBold {
+    font-weight: bold;
+}
+.classArial {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.styledFont {
+    color: green;
+}
+
+#styledImage{
+    border-style: solid;
+    border-width: 10px;
+    border-color: orange;
+}

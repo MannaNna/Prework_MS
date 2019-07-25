@@ -1,0 +1,1 @@
+Each panel in Broken code had errors. I fixed the aesthetic formatting of the code, I removed and added div tags where needed, added <li> to the ordered list, referenced the correct javascript file, added <p> tags.
